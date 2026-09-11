@@ -1,3 +1,7 @@
+body{
+    background-color: cadetblue;
+}
+
 h1{ 
     background-color: blue;
     font-size: 20px;
@@ -6,4 +10,60 @@ h1{
     font-family: sans-serif;
     color: yellow;
     
+}
+
+.f{
+    text-decoration: none;
+    color: blanchedalmond;
+    align-items: center;
+    margin-left: 260px;
+}
+
+marquee{
+    color: darkcyan;
+    direction: left;
+    background-color: black;
+    border-radius: 20px;
+    border-color: blue;
+    border-style: dashed;
+    border-width: 3px;
+    
+}
+
+
+#uls{
+    display: flex;
+    gap: 25px;
+}
+
+#ols{
+    display: flex;
+    gap: 25px;
+    color: azure;
+}
+
+.d{
+    text-decoration: none;
+    color: blanchedalmond;
+    align-items: center;
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.yes{
+    text-decoration: none;
+    color: blanchedalmond;
+    align-items: center;
+    display: flex;
+    gap: 25px;
+    list-style: none;
+    border-radius: 20px;
+    border-color: blue;
+    border-width: 3px;
+    background-color: blueviolet;
+}
+
+.c{
+    margin-left: 32px;
 }
